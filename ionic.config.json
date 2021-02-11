@@ -1,0 +1,7 @@
+{
+  "name": "snapril20-nantes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
